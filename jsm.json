@@ -207,17 +207,58 @@
 			}
 		},
    {"key":"YunPan","name":"阿狸┃YP","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$1"},	
-    {
+   {
       "key": "新6V",
       "name": "磁力┃LV",
       "type": 3,
-      "api": "csp_Xb6v",
+      "api": "csp_WexXb6v",
+      "jar": "./jar/wex.txt",
       "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "changeable": 0
     },
     {
+      "key": "BT",
+      "name": "磁力┃ZJ",
+      "type": 3,
+      "api": "csp_Wexbtbbt",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1
+      }
+    },
+    {
+      "key": "Twobt",
+      "name": "磁力┃TU",
+      "type": 3,
+      "api": "csp_WexTwobt",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0
+    },  
+   {
+      "key": "音范丝",
+      "name": "磁力┃FS",
+      "type": 3,
+      "api": "csp_XPath",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/fys.json"
+    },
+    {
+      "key": "MP4电影",
+      "name": "磁力┃MP",
+      "type": 3,
+      "api": "csp_WexMp4dy",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0
+    },
+     {
       "key": "4KHDR",
       "name": "磁力┃SK",
       "type": 3,
@@ -237,28 +278,6 @@
       "timeout": 60
     },
     {"key":"Bt0","name":"磁力┃BT","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
-   {
-      "key": "BT",
-      "name": "磁力┃ZJ",
-      "type": 3,
-      "api": "csp_Wexbtbbt",
-      "jar": "./jar/wex.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1
-      }
-    },
-    {
-      "key": "Twobt",
-      "name": "磁力┃TO",
-      "type": 3,
-      "api": "csp_WexTwobt",
-      "jar": "./jar/wex.txt",
-      "searchable": 1,
-      "changeable": 0
-    },  
      {
       "key": "Ppxzy",
       "name": "夸克┃PP",
