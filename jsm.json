@@ -76,17 +76,7 @@
       "filterable": 1,
       "ext": "./lib/xyq/玩偶妹妹.json"
     },
-       {
-      "key": "Wogg",
-      "name": "玩偶┃PG",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/wogg.json"
-    },
+    {"key":"Wogg","name":"玩偶┃PG","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"}，     
     {
       "key": "️玩偶哥",
       "name": "玩偶┃OG",
@@ -98,8 +88,7 @@
       "filterable": 1,
       "ext": "./lib/og/wog.json"
     },
-    {"key":"yydsys","name":"玩偶┃LG","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},
-    {
+   {
       "key": "玩偶哥哥KX",
       "name": "玩偶┃KX",
       "type": 3,
@@ -109,28 +98,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/ttkx/玩偶哥哥.json"
-    },
-    {
-      "key": "玩我哥哥KX",
-      "name": "玩偶┃WO",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/ttkx/玩我哥哥.json"
-    }, 
-    {
-      "key": "Wobg",
-      "name": "玩偶┃BG",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/wogg.json"
     },
     {
       "key": "wogg_HCCX",
@@ -143,7 +110,20 @@
       "filterable": 0,
       "ext": "./lib/hccx/玩偶哥哥.json"
     },
-     {
+    {"key":"Wobg","name":"玩偶┃BG","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
+    {
+      "key": "玩我哥哥KX",
+      "name": "玩偶┃WO",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/ttkx/玩我哥哥.json"
+    }, 
+   {"key":"yydsys","name":"玩偶┃WN","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"}， 
+   {
       "key": "Fangniu4k",
       "name": "玩偶┃FN",
       "type": 3,
@@ -151,25 +131,14 @@
       "jar": "./jar/wex.txt",
       "searchable": 1,
       "changeable": 1
-    },
-      
+   }，      
     {"key":"PushShare","name":"阿狸┃WD","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
-		},
-     {
-      "key": "Hdhive",
-      "name": "阿狸┃YC",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/tokenm.json$$$null$$$1"
-      }, 
+    }，    
+      {"key":"Hdhive","name":"阿狸┃YC","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
       {
             "key": "Wodoudou",
             "name": "阿狸┃TD",
@@ -181,13 +150,13 @@
             "timeout": 30,
             "ext": "./lib/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./lib/wogg.json"
       },
-      {"key":"运输车","name":"阿狸┃YS","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link$$$null$$$1$$$./lib/wogg.json"}, 
-      {"key":"AliShare","name":"阿狸┃AL","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+      {"key":"影视车","name":"阿狸┃YS","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$proxy$$$1$$$./lib/wogg.json"},
+     {"key":"AliShare","name":"阿狸┃AL","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
-	 },  
+     },  
      {
       "key": "阿里云集合外置",
       "name": "阿狸┃ZX",
@@ -349,17 +318,8 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "Ppxzy",
-      "name": "夸克┃PP",
-      "type": 3,
-      "api": "csp_Ppxzy",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
-    },
+    {"key":"Ppxzy","name":"夸克┃PP","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.net$$$proxy$$$1"},
+  
     {
       "key": "校长影视",
       "name": "夸克┃XZ",
@@ -371,7 +331,7 @@
       "timeout": 30,
       "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
-    {"key":"团长资源","name":"夸克┃TZ","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$1"},
+    {"key":"团长资源","name":"夸克┃TZ","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$proxy$$$1"},
     {"key":"美剧迷","name":"夸克┃MJ","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
     
     {"key":"drpy_js_奇珍异兽","name":"爱爱┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/xyq/奇珍异兽.js"},   
@@ -461,17 +421,7 @@
 				"ratio": 1.1
 			}
 	},
-    {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "云盘┃🍭",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/custom_spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xyq/云盘资源.json"
-    },
+	{"key":"YunPan","name":"云盘┃🍭","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 	{
       "key": "PanSearch",
       "name": "盘寻┃🍭",
