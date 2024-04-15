@@ -613,7 +613,7 @@
       "name": "live.m3u",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/0314.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/ty.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -621,7 +621,7 @@
       "name": "live.m3u1",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/0410.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/cy.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -638,7 +638,7 @@
     {
       "name": "live.m3u3",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/cy.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/tvkj.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -647,7 +647,7 @@
     {
       "name": "live.m3u4",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/yt.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/zby/main/tvkj1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
